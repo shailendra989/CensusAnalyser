@@ -1,0 +1,15 @@
+C:\Users\91790\Desktop\dotnet\IndianStateCensusAnalyzer\IndianStateCensusAnalyzer\bin\Debug\net6.0\IndianStateCensusAnalyzer.exe
+C:\Users\91790\Desktop\dotnet\IndianStateCensusAnalyzer\IndianStateCensusAnalyzer\bin\Debug\net6.0\IndianStateCensusAnalyzer.deps.json
+C:\Users\91790\Desktop\dotnet\IndianStateCensusAnalyzer\IndianStateCensusAnalyzer\bin\Debug\net6.0\IndianStateCensusAnalyzer.runtimeconfig.json
+C:\Users\91790\Desktop\dotnet\IndianStateCensusAnalyzer\IndianStateCensusAnalyzer\bin\Debug\net6.0\IndianStateCensusAnalyzer.dll
+C:\Users\91790\Desktop\dotnet\IndianStateCensusAnalyzer\IndianStateCensusAnalyzer\bin\Debug\net6.0\IndianStateCensusAnalyzer.pdb
+C:\Users\91790\Desktop\dotnet\IndianStateCensusAnalyzer\IndianStateCensusAnalyzer\obj\Debug\net6.0\IndianStateCensusAnalyzer.csproj.AssemblyReference.cache
+C:\Users\91790\Desktop\dotnet\IndianStateCensusAnalyzer\IndianStateCensusAnalyzer\obj\Debug\net6.0\IndianStateCensusAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91790\Desktop\dotnet\IndianStateCensusAnalyzer\IndianStateCensusAnalyzer\obj\Debug\net6.0\IndianStateCensusAnalyzer.AssemblyInfoInputs.cache
+C:\Users\91790\Desktop\dotnet\IndianStateCensusAnalyzer\IndianStateCensusAnalyzer\obj\Debug\net6.0\IndianStateCensusAnalyzer.AssemblyInfo.cs
+C:\Users\91790\Desktop\dotnet\IndianStateCensusAnalyzer\IndianStateCensusAnalyzer\obj\Debug\net6.0\IndianStateCensusAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\91790\Desktop\dotnet\IndianStateCensusAnalyzer\IndianStateCensusAnalyzer\obj\Debug\net6.0\IndianStateCensusAnalyzer.dll
+C:\Users\91790\Desktop\dotnet\IndianStateCensusAnalyzer\IndianStateCensusAnalyzer\obj\Debug\net6.0\refint\IndianStateCensusAnalyzer.dll
+C:\Users\91790\Desktop\dotnet\IndianStateCensusAnalyzer\IndianStateCensusAnalyzer\obj\Debug\net6.0\IndianStateCensusAnalyzer.pdb
+C:\Users\91790\Desktop\dotnet\IndianStateCensusAnalyzer\IndianStateCensusAnalyzer\obj\Debug\net6.0\IndianStateCensusAnalyzer.genruntimeconfig.cache
+C:\Users\91790\Desktop\dotnet\IndianStateCensusAnalyzer\IndianStateCensusAnalyzer\obj\Debug\net6.0\ref\IndianStateCensusAnalyzer.dll
